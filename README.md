@@ -1,6 +1,3 @@
 ### Hi there, welcome to my profile 👋
 When I have time to spare I try to work on:
-- [Formation Finder](https://github.com/nicoloridulfo/Formation-Finder)📈 
-- [Order Matching Engine](https://github.com/nicoloridulfo/Order-Matching-Engine)📈 
-- **Private Repository** 📈 
-- [Advent of Code](https://github.com/nicoloridulfo/advent-of-code) 🎄
+- [Tiny Trader](https://github.com/nicoloridulfo/TinyTrader) 📈 
